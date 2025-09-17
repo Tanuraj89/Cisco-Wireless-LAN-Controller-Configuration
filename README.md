@@ -1,2 +1,2 @@
-# Cisco-Wireless-Controller-Configuration
+# Cisco-Wireless-LAN-Controller-Configuration
 Cisco Wireless Controller Configuration
